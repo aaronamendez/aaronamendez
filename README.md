@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaronamendez&theme=blue-green"/>
-
-
 ### My Frontend Toolbox: 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
@@ -45,3 +42,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
 </p>
 
+## General Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aaronamendez&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
