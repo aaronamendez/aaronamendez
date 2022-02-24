@@ -8,7 +8,9 @@
 - 🔭 I’m interested React, TypeScript, Node.js, and SQL/NoSQL (MongoDB, MySQL, PostgresSQL)
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
+<p>
 ![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
+<p/>
 
 ### My Frontend Toolbox: 
 <p>
