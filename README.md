@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
 
-<img src="https://komarev.com/ghpvc/?username=aaronamendez&color=orange"
+![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
 
 
 ### My Frontend Toolbox: 
