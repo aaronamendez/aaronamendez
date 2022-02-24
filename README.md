@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
 - 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aaronamendez&theme=blue-green"/>
 
 
 ### My Frontend Toolbox: 
