@@ -6,8 +6,8 @@
 - I'm Aaron.
 - 📫 My website: www.aaronamendez.com
 - 🔭 I’m interested React, TypeScript, Node.js, and SQL/NoSQL (MongoDB, MySQL, PostgresSQL)
-- 🌱 I’m currently learning TypeScript, GraphQL and PostgresSQL
-- 👯 I’m looking to collaborate on Crypto and Building Smart Solutions for Businesses
+- 🌱 I’m currently learning TypeScript, GraphQL and Prisma.
+- 👯 I’m looking to build amazing projects with others
 
 ![](https://komarev.com/ghpvc/?username=aaronamendez&color=orange)
 
